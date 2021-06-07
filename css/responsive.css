@@ -126,6 +126,9 @@
     margin-top: 0%;
     margin-left: calc(0% - 0px);
   }
+    #header {
+    height: 96vh;
+}
   #about .about-descr .p-heading {
     font-size: 20px;
   }
@@ -181,6 +184,9 @@
     padding-top: 10px;
     padding-bottom: 10px;
   }
+    #header {
+    height: 96vh;
+}
   .responsive {
     float: right;
     padding-top: 15px;
@@ -236,6 +242,9 @@
   nav {
     padding: 20px 15px;
   }
+    #header {
+    height: 96vh;
+    }
   .nav-menu {
     margin-top: 40px;
     display: none;
@@ -321,6 +330,9 @@
     margin-left: 0;
     padding-top: 10px;
     padding-bottom: 10px;
+  }
+    #header {
+    height: 96vh;
   }
   .responsive {
     float: right;
